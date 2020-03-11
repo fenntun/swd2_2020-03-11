@@ -1,1 +1,1 @@
-SOme intial data analysis to identify how inlammation changes over time after surgery
+Some intial data analysis to identify how inlammation changes over time after surgery
