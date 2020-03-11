@@ -2,4 +2,6 @@ Some intial data analysis to identify how inlammation changes over time after su
 Jane is a Data Scientist and Samit is a statistician.
 
 We'll need to determine who is responsible fir what in our project.
-we may need to bring a third person into the project who knows python
+we may need to bring a third person into the project with programming skills.
+They may need to be competenent in both python and R.
+
