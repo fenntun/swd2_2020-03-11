@@ -1,1 +1,5 @@
-Some intial data analysis to identify how inlammation changes over time after surgery
+Some intial data analysis to identify how inlammation changes over time after surgery.
+Jane is a Data Scientist and Samit is a statistician.
+
+We'll need to determine who is responsible fir what in our project.
+we may need to bring a third person into the project who knows python
